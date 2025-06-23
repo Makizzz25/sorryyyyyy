@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Untuk Brenda</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        #page1 {
+            background: url('https://github.com/Makizzz25/sorryyyyyy/blob/main/Screenshot_2025-06-23-10-37-08-424_com.whatsapp.jpg?raw=true') no-repeat center center/cover;
+            width: 100%;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #page1 .box {
+            color: white; /* WARNA TEKS UNTUK PAGE 1 */
+        }
+
+        #page2 {
+            background: url('https://github.com/Makizzz25/sorryyyyyy/blob/main/IMG_E0539.JPG?raw=true') no-repeat center center/cover;
+            width: 100vw;
+            min-height: 150vh;
+            position: absolute;
+            top: 0;
+            left: 0;
+            display: none;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            overflow-y: auto;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        #page2 .box {
+            color: white; /* WARNA TEKS UNTUK PAGE 2 */
+        }
+
+        .box {
+            background: rgba(4, 4, 4, 0.771); 
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(156, 121, 121, 0.1);
+            max-width: 80%;
+            word-wrap: break-word;
+            text-align: center;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 18px;
+            color: white;
+            background-color: rgb(195, 0, 255);
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        .button:hover {
+            background-color: rgb(255, 0, 72);
+        }
+    </style>
+</head>
+<body>
+    <div id="page1">
+        <div class="box">
+            <h1>Halooo sayanggg, tolong di baca yah, buat nk ini web lagi karna kayaknya ini mija cara ku hubungi ko dengan cara kasih ini link</h1>
+        </div>
+        <a href="#" class="button" onclick="nextPage()">for you sayanggg 🤍</a>
+    </div>
+    
+    <div id="page2">
+        <div class="box">
+            <h2>Halo sayanggg🥹🌹💍🤍💐🌷❤✨, di baca yahhh baby🫶</h2>
+            <p>Halooo sayang, selamat pagi/siang/sore/malam. buat nk ini website karna ndk ku tau lagi mau hubungi ko pake cara apa jadi semoga mu baca ini. pertama tama, HALOOOOOOOOOOOOOOO SAYANGGGGGGGGGG🥺, bemana kabar mu sekarang? baik? semoga baik selalu bahagia selalu dalam perlindungan Tuhan. sayang, monk minta maaf untuk apa yang membuat mu marah, ku tau lewat kata kata ji seperti ini ndk ada artinya atau basi mi, tapi untuk saat ini ldr, ini yg bisa dulu ku lakukan untuk minta maaf dengan cara hubungi ko, minta maafffff sekali nk apa yang bikin marah ko, setelah ku renungkan kayaknya ku tau apa yang bikin ko marah, karna terakhir yang ku bilang baru mulai ko marah adalah ku bilang ta bagi 2/split bill itu biaya hotel, dalam artian yang sudah ku renungkan, mau nk senang senang sama kau tapi ndk bertanggung jawab nk untuk bayar semuanyua itu, minta maaf nk untuk itu sayang, ndk ku tau lumi mau minta maaf bemana untuk sekarang dan mungkin terlambat mok minta maaf, dan jika ternyata salah penyebab mu marah yang ku pikir, minta maaf nk untuk yang lainnya. iya sayang, brengsek nk, anjing nk taik nk asu nk laso nk kontol nk ngentot memek nk semuaya untuk saya sayang, issokey, ku terima ji dibilangkan begitu, karna ku tau banyakkkkkkkkkkk sekali pi kurang ku untuk kau dan banyak sekali salah ku ke kau, so minta maaf nk untuk itu. iya sayang yang kemarin 22/06/2025 yang mu telfon nk untuk balas chat mu pagi2, sorry lag sekali otak ku karna tiba tiba bangun baru ndk proses pi otak ku baca dan membalas chat mu makanya lambat sekali nk, ada ku vn yang mu bilang tapi terlambat sedikit ku kirim dan sudah mu block nk itu. sekali lagi minta maaf sayang. ndk ku tau dengan cara apa minta maaf lagi sekarang sayang karna kata kata saja ndk cukup, berharap ja bisa nk perbaiki kesalahan ku dan sangat berharap nk dan berdoaaaaa sekali nk supaya masih bisa kik sama lagi, yah mungkin mu bilang ndk akan mau moko dan mustahil mko mau sama saya lagi, tapi dari dasar hati ku masih mau sekali nk perbaiki dan menjalin hubungan sama kau, memang sering kik bertengkar begitu tapi selalu nk berpikir bagian ta senang2 sama, main sama2, jalan sama2, makan sama2, quilty time bersama, selalu nk ingat part part terbaik dalam hubungan ta makanya ndk mau sekali nk menyerah sama kau. jujur sayang ndk ku tau mau minta maaf bagaimana lagi, mau bilang apa lagi karna dan mu tau toh ndk pintar nk rangkai kata2 untuk bicara begini, dan yah minta maaf nk saja untuk itu semua dulu. jika Tuhan berkehendak dan mengizinkan, semoga masih bisa kik bersama dan masih mau ko sama saya, dan bisa kik ketemu dan lakukan semuanya lagi bersama, baik di toraja, makassar, maupun ldr secara telfon/chat/vc/main game sama. so sorrryyyyyyyyyy sayanggggggggggggggggg🥺🥺🥺😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭. i hope we can be together again🥹. mungkin itu saja dulu dari saya sayang, kalau mau bicara atau bemana dengan saya ada ji tombol di bawa nanti untuk ke wa ku. sekian dari saya sayang terima kasih sudah membaca sampai sini. ku sayanggg sekali ko, love you always my beloved the most beautiful girl in my life brenda 🌹💍🤍💐🌷❤✨ ........................................................................................................................................................love you, Max Jori Bulo De Jong 23/06/2025</p>
+        </div>
+
+        <!-- Tombol Google Form (pertama) -->
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdB9c26dNQHw670FTwViuT9zYDHTkS-rc_cr9JilACe9vx7QA/viewform?usp=header" 
+           class="button" target="_blank">
+           Isi ini duluu yah sayanggg 💌🌹💍🤍💐🌷✨
+
+        </a>
+
+        <!-- Tombol WhatsApp (kedua) -->
+        <a href="https://wa.me/6282393486760" class="button">
+           sudah isi ratingnya? 🥹 ,please chat nk di WA sayanggg 🥺🥹
+        </a>
+    </div>
+
+    <script>
+        function nextPage() {
+            document.getElementById('page1').style.display = 'none';
+            document.getElementById('page2').style.display = 'flex';
+        }
+    </script>
+</body>
+</html>
